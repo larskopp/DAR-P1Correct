@@ -1,0 +1,4 @@
+bin/
+obj/ 
+*.sqlite
+.vs/
